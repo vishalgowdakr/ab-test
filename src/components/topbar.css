@@ -1,0 +1,21 @@
+.topbar-element{
+    font-family: 'Rubik Glitch', system-ui;
+}
+
+#SearchBar:focus{
+    outline: none;
+}
+
+#teach{
+    font-family: 'Rubik';
+}
+
+#topbar{
+    background-color: var(--main-color);
+    /* color: rgb(164, 151, 55); */
+}
+
+#signup{
+    border-radius: var(--border-radius);
+    padding-left: var(--padding-x);
+}
