@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83ab50aa.css",
+    "main.js": "/static/js/main.b25a0223.js",
+    "static/js/787.4f92e5e0.chunk.js": "/static/js/787.4f92e5e0.chunk.js",
+    "static/media/Designer (3).png": "/static/media/Designer (3).40e5624528dd5fb034c8.png",
+    "static/media/Designer (2).png": "/static/media/Designer (2).9382963495a9d933c19b.png",
+    "static/media/document.jpeg": "/static/media/document.f0336aa24197ec550232.jpeg",
+    "static/media/cisco.svg": "/static/media/cisco.b3aa3c3e7ccdf506039e9d190a2fbe88.svg",
+    "static/media/hewlett_packard_enterprise.svg": "/static/media/hewlett_packard_enterprise.744aaf54c2afbe895af26cbc1f14d4b4.svg",
+    "static/media/att.svg": "/static/media/att.5fbc2a8681cb46175944bd88190c7ccd.svg",
+    "static/media/procter_gamble.svg": "/static/media/procter_gamble.5dbfd0665f58d6507eceab5d2cd6891c.svg",
+    "static/media/samsung.svg": "/static/media/samsung.a1a2a3501c8a0e8650140d42e188f7dc.svg",
+    "static/media/ericsson.svg": "/static/media/ericsson.1958ed194731edb440aebb0a04d34c73.svg",
+    "static/media/volkswagen.svg": "/static/media/volkswagen.4f91d001a4e74a89539b3b56af421eaa.svg",
+    "static/media/citi.svg": "/static/media/citi.c6579fce6b3bed80845e08462a07b969.svg",
+    "index.html": "/index.html",
+    "main.83ab50aa.css.map": "/static/css/main.83ab50aa.css.map",
+    "main.b25a0223.js.map": "/static/js/main.b25a0223.js.map",
+    "787.4f92e5e0.chunk.js.map": "/static/js/787.4f92e5e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ab50aa.css",
+    "static/js/main.b25a0223.js"
+  ]
+}
