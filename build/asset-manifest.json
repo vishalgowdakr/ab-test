@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.83ab50aa.css",
-    "main.js": "/static/js/main.b25a0223.js",
+    "main.css": "/static/css/main.b7c2ef44.css",
+    "main.js": "/static/js/main.b614694b.js",
     "static/js/787.4f92e5e0.chunk.js": "/static/js/787.4f92e5e0.chunk.js",
     "static/media/Designer (3).png": "/static/media/Designer (3).40e5624528dd5fb034c8.png",
     "static/media/Designer (2).png": "/static/media/Designer (2).9382963495a9d933c19b.png",
@@ -15,12 +15,12 @@
     "static/media/volkswagen.svg": "/static/media/volkswagen.4f91d001a4e74a89539b3b56af421eaa.svg",
     "static/media/citi.svg": "/static/media/citi.c6579fce6b3bed80845e08462a07b969.svg",
     "index.html": "/index.html",
-    "main.83ab50aa.css.map": "/static/css/main.83ab50aa.css.map",
-    "main.b25a0223.js.map": "/static/js/main.b25a0223.js.map",
+    "main.b7c2ef44.css.map": "/static/css/main.b7c2ef44.css.map",
+    "main.b614694b.js.map": "/static/js/main.b614694b.js.map",
     "787.4f92e5e0.chunk.js.map": "/static/js/787.4f92e5e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83ab50aa.css",
-    "static/js/main.b25a0223.js"
+    "static/css/main.b7c2ef44.css",
+    "static/js/main.b614694b.js"
   ]
 }

@@ -69,6 +69,7 @@ function App() {
 }
 
 },[newUser]);
+
   return (
   <div className='flex-1 flex-col justify-items-center max-h-full'>
     <TopBar topbar={theme.topbar} b_r={theme.b_r} p_x={theme.p_x}/>
