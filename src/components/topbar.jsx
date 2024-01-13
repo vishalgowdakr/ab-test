@@ -4,15 +4,19 @@ import confetti from 'canvas-confetti';
 import { getCookie, setCookie } from '../cookie';
 
 export default function TopBar({topbar, b_r, p_x}) {
-     const signupClick = async () => {
-        const isSignedUp =  await getCookie('signedUp');
-        if(isSignedUp !== 'true'){
+    const signupClick = async () => {
+        const isSignedUp = await getCookie('signedUp');
+        console.log(isSignedUp);
+        if (isSignedUp !== true) {
             await confetti({
                 particleCount: 100,
                 spread: 70,
                 origin: { y: 0.6 }
-              });
+            });
             await setCookie('signedUp', 'true', 365);
+        } else {
+            // Show a pop up saying you have already signed up
+            alert('You have already signed up!');
         }
     }
     useEffect(()=>{
