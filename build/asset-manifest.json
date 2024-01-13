@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7c2ef44.css",
-    "main.js": "/static/js/main.f90901b3.js",
+    "main.css": "/static/css/main.7db1400e.css",
+    "main.js": "/static/js/main.47b20dab.js",
     "static/js/787.4f92e5e0.chunk.js": "/static/js/787.4f92e5e0.chunk.js",
     "static/media/Designer (3).png": "/static/media/Designer (3).40e5624528dd5fb034c8.png",
     "static/media/Designer (2).png": "/static/media/Designer (2).9382963495a9d933c19b.png",
@@ -15,12 +15,12 @@
     "static/media/volkswagen.svg": "/static/media/volkswagen.4f91d001a4e74a89539b3b56af421eaa.svg",
     "static/media/citi.svg": "/static/media/citi.c6579fce6b3bed80845e08462a07b969.svg",
     "index.html": "/index.html",
-    "main.b7c2ef44.css.map": "/static/css/main.b7c2ef44.css.map",
-    "main.f90901b3.js.map": "/static/js/main.f90901b3.js.map",
+    "main.7db1400e.css.map": "/static/css/main.7db1400e.css.map",
+    "main.47b20dab.js.map": "/static/js/main.47b20dab.js.map",
     "787.4f92e5e0.chunk.js.map": "/static/js/787.4f92e5e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7c2ef44.css",
-    "static/js/main.f90901b3.js"
+    "static/css/main.7db1400e.css",
+    "static/js/main.47b20dab.js"
   ]
 }
