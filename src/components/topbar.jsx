@@ -19,7 +19,6 @@ export default function TopBar({ topbar, b_r, p_x, theme }) {
         'theme': theme,
       });
       const response = await sendPostRequest(analytics);
-      console.log(response);
 
     } else {
       alert('You have already signed up!');
