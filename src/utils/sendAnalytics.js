@@ -6,6 +6,7 @@ export async function sendPostRequest(postData) {
   try {
     const response = await axios.post(workerUrl, postData);
     return response.data;
+
   } catch (error) {
     console.log(error)
   }
