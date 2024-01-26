@@ -5,6 +5,7 @@ const workerUrl = new URL('https://worker-morning-surf-c4bc.vishalgowda096.worke
 export async function sendPostRequest(postData) {
   try {
     const response = await axios.post(workerUrl, postData);
+    console.log(response);
     return response.data;
 
   } catch (error) {
