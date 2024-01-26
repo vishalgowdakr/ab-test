@@ -18,7 +18,7 @@ export default function TopBar({ topbar, b_r, p_x, theme }) {
       const analytics = JSON.stringify({
         'theme': theme,
       });
-      const response = sendPostRequest(analytics);
+      const response = await sendPostRequest(analytics);
       console.log(response);
 
     } else {
